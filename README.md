@@ -11,7 +11,7 @@ A portfolio of my Web3 security research
 | **Polkadot SDK Transaction Malleability** | Medium | Yes | - |
 
 ### Audit Portfolio
-*A selection of security audits conducted during my tenure at **BitsLab**, specializing in **L1/L2 Infrastructure** and the **Move/EVM Ecosystem**.*
+*A selection of security audits I participated in during my tenure at **BitsLab**, specializing in **L1/L2 Infrastructure** and the **Move/EVM Ecosystem**.*
 
 | Project | Category | Language | Report |
 | :--- | :--- | :--- | :--- |
