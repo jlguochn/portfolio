@@ -6,7 +6,7 @@ A portfolio of my Web3 security research
 
 | Vulnerability / Research Title | Severity | Bounty | Link |
 | :--- | :--- | :--- | :--- |
-| **Aptos ECDSA signature malleability handling** | - | - | [🔗 PR #13544](https://github.com/aptos-labs/aptos-core/pull/13544) |
+| **Aptos ECDSA Signature Malleability Handling** | - | - | [🔗 PR #13544](https://github.com/aptos-labs/aptos-core/pull/13544) |
 | **Aptos Low-Cost Mempool DOS Attack** | High | Yes | [🔗 Credit](https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.19.1#Resolved-Issues) |
 | **Polkadot SDK Transaction Malleability** | Medium | Yes | - |
 
