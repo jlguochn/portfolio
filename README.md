@@ -42,7 +42,7 @@ A portfolio of my Web3 security research
 
 
 ### Development Experience
-*Selected open-source contributions and security tooling development.*
+*Selected open-source contributions and tooling development.*
 
 | Project | Description | Language | Link |
 | :--- | :--- | :--- | :--- |
