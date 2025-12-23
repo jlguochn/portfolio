@@ -34,7 +34,7 @@ A portfolio of my Web3 security research
 | **MOVESWAP** | DEX | Move | Non-disclosed |
 | **Liquidium** | BTC Protocol | TypeScript | [🔗 View Report](https://scalebit.xyz/reports/20240821-Liquidium-Final-Audit-Report.pdf) |
 | **Unisat Mobile** | Wallet | TypeScript | Non-disclosed |
-| **Minibridge** | Bridge | Python | [🔗 View Report](https://scalebit.xyz/reports/20240729-Minibridge-Final-Audit-Report.pdf) |
+| **InterBridge** | Bridge | Typescript | [🔗 View Report](https://tonbit.xyz/reports/20241029-InterBridge-Relayer-Final-Audit-Report.pdf) |
 | **Lumoz** | Infra | Solidity | [🔗 View Report](https://scalebit.xyz/reports/20241128-Lumoz-Final-Audit-Report.pdf) |
 | **BLOCKLORDS** | GameFi | Solidity | [🔗 View Report](https://scalebit.xyz/reports/20241120-BLOCKLORDS-Final-Audit-Report.pdf) |
 | **E·A Staking** | Staking | Solidity | [🔗 View Report](https://scalebit.xyz/reports/E%C2%B7A-Staking-Audit-Report-9-8-2025.pdf) |
