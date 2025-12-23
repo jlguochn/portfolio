@@ -1,7 +1,7 @@
 # portfolio
 A portfolio of my Web3 security research
 
-### 🔍 Vulnerability Research & Bug Bounty
+### Vulnerability Research & Bug Bounty
 *Selected vulnerability research and security contributions.*
 
 | Vulnerability / Research Title | Severity | Bounty | Link |
@@ -39,3 +39,11 @@ A portfolio of my Web3 security research
 | **BLOCKLORDS** | GameFi | Solidity | [🔗 View Report](https://scalebit.xyz/reports/20241120-BLOCKLORDS-Final-Audit-Report.pdf) |
 | **E·A Staking** | Staking | Solidity | [🔗 View Report](https://scalebit.xyz/reports/E%C2%B7A-Staking-Audit-Report-9-8-2025.pdf) |
 | **Seascape** | Staking | Solidity | Non-disclosed |
+
+
+### Development Experience
+*Selected open-source contributions and security tooling development.*
+
+| Project | Description | Language | Link |
+| :--- | :--- | :--- | :--- |
+| **OpenTap** | Developed BTC Multi-sig Taproot scripts. Implemented **Multi-path spending** mechanisms via **P2TR Script Path**, including **Hashlocks**, **Threshold Signatures**, and **Timelocks**. | Golang | [🔗 GitHub](https://github.com/scalebit/OpenTap) |
