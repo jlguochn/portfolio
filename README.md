@@ -8,7 +8,7 @@ A portfolio of my Web3 security research
 | :--- | :--- | :--- | :--- | :--- |
 | **Aptos ECDSA Signature Malleability Handling** | Github | - | - | [🔗 PR #13544](https://github.com/aptos-labs/aptos-core/pull/13544) |
 | **Aptos Low-Cost Mempool DOS Attack** | Hackenproof | High | Yes | [🔗 Credit](https://github.com/aptos-labs/aptos-core/releases/tag/aptos-node-v1.19.1#Resolved-Issues) |
-| **Polkadot SDK Transaction Malleability** | Email | Medium | Yes | - |
+| **Polkadot SDK Transaction Malleability** | Parity | Medium | Yes | - |
 | **Astar Network** | Immunefi | Medium | Yes | - |
 
 ### Audit Portfolio
