@@ -31,7 +31,7 @@ A portfolio of my Web3 security research
 | **LayerBank** | Lending | Move | [🔗 View Report](https://movebit.xyz/reports/LayerBank-Audit-Report.pdf) |
 | **Cetus** | DLMM | Move | Non-disclosed |
 | **Bitlayer** | Bridge | Move | Non-disclosed |
-| **Creek** | Lending | Move | Non-disclosed |
+| **Creek** | Lending | Move | [🔗 View Report](https://movebit.xyz/reports/Creek-Audit-Report-2025-12-30.pdf) |
 | **MOVESWAP** | DEX | Move | Non-disclosed |
 | **Liquidium** | BTC Protocol | TypeScript | [🔗 View Report](https://scalebit.xyz/reports/20240821-Liquidium-Final-Audit-Report.pdf) |
 | **Unisat Mobile** | Wallet | TypeScript | Non-disclosed |
